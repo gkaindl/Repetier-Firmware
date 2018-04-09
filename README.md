@@ -1,5 +1,12 @@
 # Repetier-Firmware - the fast and user friendly firmware
 
+This is version of Repetier is for my AnyCubic Kossel with a couple of upgrades,
+such as a piezo-based Z-probe.
+
+Mostly, it's about keeping my Configuration.h online.
+
+-----------
+
 ## Notes for developers/pull requests
 
 This software is open source licensed under the GPL V3. As any free project we
